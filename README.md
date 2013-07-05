@@ -1,6 +1,12 @@
 hubo_msgs_catkinized
 ====================
 
+
+**! THIS PACKAGE IS DEPRECATED AND EXISTS FOR HISTORICAL PURPOSES ONLY !**
+
+**It has been replaced by [hubo_ros_core](https://github.com/WPI-ARC/hubo_ros_core)**
+
+
 Catkinized (ROS Groovy+) version of hubo_msgs package
 
 This package will ONLY build using ROS Groovy and above!
